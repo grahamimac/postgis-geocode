@@ -1,3 +1,3 @@
 FROM mdillon/postgis
 
-COPY Process.sh /Process.sh
+COPY Process.sh Get_Geogs.sh /
